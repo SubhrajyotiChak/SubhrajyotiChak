@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhrajyoti Chakraborty(half egg)</h1>
+<h1 align="center">Hi 👋, I'm Subhrajyoti Chakraborty(Jeetu)</h1>
 <h3 align="center">A coding enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajyotichak&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajyotichak" /> </p>
