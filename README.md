@@ -1,48 +1,16 @@
-<h1 align="center">Hi 👋, I'm Subhrajyoti Chakraborty</h1>
-<h3 align="center">A coding enthusiast.</h3>
+![githubsex](https://user-images.githubusercontent.com/87280247/197359408-19217ed4-ec53-463f-b4e2-be0dc4b3810f.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajyotichak&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajyotichak" /> </p>
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=SubhrajyotiChak&count_private=true&theme=radical" alt="Prankush" width="270" />
 
-<div >
+<img  alt="screen-shot-2021-08-26-at-24711-pm_bnn3" src="https://user-images.githubusercontent.com/87280247/197359499-18b87e8d-17d0-4a7c-874e-cc0c9c37e107.png" width="220">
 
-<img width="25.2%" src="https://user-images.githubusercontent.com/87280247/139275367-1e0de114-4d08-44d0-bbec-88e3942c4c09.gif" alt="prankush-tech" />
-</div>
+<img src="https://streak-stats.demolab.com?user=SubhrajyotiChak&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD6F6F93" alt="Prankush" width="270" />
 
-- 🌱 I’m currently learning **Frontend and Backend Dev.**
 
-- 📫 How to reach me **subhrajyoti0342@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jeet_chak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jeet_chak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/subhrajyoti chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhrajyoti chakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/jeet chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeet chakraborty" height="30" width="40" /></a>
-<a href="https://instagram.com/jeet_chak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeet_chak" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jeet_chak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jeet_chak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/subhrajyoti chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="subhrajyoti chakraborty" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/bMbAuvW3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/bMbAuvW3" height="30" width="40" /></a>
+
+
+
 </p>
-
-
-<div align="center">
-
-<img width="25.2%" src="https://user-images.githubusercontent.com/87280247/139274094-e843d5f2-35ce-446b-a94f-0dad5458d771.gif" alt="jeetu" /><img width="25.2%" src="https://user-images.githubusercontent.com/87280247/139274094-e843d5f2-35ce-446b-a94f-0dad5458d771.gif" alt="jeetu" /><img width="25.2%" src="https://user-images.githubusercontent.com/87280247/139274094-e843d5f2-35ce-446b-a94f-0dad5458d771.gif" alt="jeetu" />      
-</div>
-
-
-
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhrajyotichak&show_icons=true&locale=en&layout=compact" alt="subhrajyotichak" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhrajyotichak&show_icons=true&locale=en" alt="subhrajyotichak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajyotichak&" alt="subhrajyotichak" /></p>
